@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-15T23:59:37.760Z'
+datePublished: '2016-06-16T17:58:00.834Z'
 sourcePath: _posts/2016-04-19-bits-and-pieces-an-organic-wave-of-hoberman-spheres.md
 inFeed: true
 isBasedOnUrl: >-
@@ -22,7 +22,7 @@ author:
   - name: Filip Visnjic
     url: 'http://www.creativeapplications.net/author/filip/'
     avatar: {}
-dateModified: '2016-06-15T23:59:34.058Z'
+dateModified: '2016-06-16T17:57:57.186Z'
 title: Bits And Pieces - An organic wave of Hoberman Spheres
 app_links: []
 publisher:
